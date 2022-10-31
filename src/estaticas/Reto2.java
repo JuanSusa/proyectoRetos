@@ -41,6 +41,6 @@ public class Reto2 {
                 tiempoMayor = tiempo[x];
             }
         }
-        System.out.println("el ganador es" + nombre[i] + "tiempo mayor es de " + tiempoMayor);
+        
     }
 }
